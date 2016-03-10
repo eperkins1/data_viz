@@ -1,0 +1,48 @@
+body {
+	font-size: 14px;
+}
+
+h1 {
+	padding-left: 46%;
+	font-size: 44px;
+	position: relative;
+}
+
+.bar {
+  fill: red;
+}
+
+#button {
+	position: relative;
+	padding-left: 50%;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  /*display: none;*/
+}
+
+/*.chart {
+	width: 90%;
+	margin: auto;
+}
+
+.chart rect {
+	fill: red;
+}
+
+.chart text {
+  font: 10px sans-serif;
+  text-anchor: end;
+  fill: black;
+}*/
